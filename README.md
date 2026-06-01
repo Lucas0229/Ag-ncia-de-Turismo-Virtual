@@ -33,7 +33,7 @@ Bem-vindo à **Infinity Tour**, uma agência de turismo virtual criada para perm
 ### 🏠 Home
 
 * Nome da empresa
-* Logotipo
+* Logo
 * Slogan
 
 ### 🏢 Sobre
@@ -53,7 +53,7 @@ Bem-vindo à **Infinity Tour**, uma agência de turismo virtual criada para perm
 * Empresas parceiras
 * Logotipos institucionais
 
-### ❓ FAQ
+### ❓ F.A.Q
 
 * Perguntas frequentes
 * Respostas rápidas aos usuários
